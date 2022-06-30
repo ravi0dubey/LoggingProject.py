@@ -1,0 +1,32 @@
+2022-06-29 12:14:32,726 this is my log with timestamp
+2022-06-29 12:19:12,496
+2022-06-29 12:26:42,843 
+2022-06-29 12:29:33,847 
+2022-06-29 12:29:52,050 division by zero
+2022-06-29 12:31:16,150 division by zero
+2022-06-29 12:31:40,661 division by zero
+2022-06-29 12:31:50,151 division by zero
+2022-06-29 12:31:55,683 division by zero
+INFO (2022-06-29 12:33:48,991 We are into function
+CRITICAL (2022-06-29 12:33:48,991 division by zero
+INFO (2022-06-29 12:34:26,671 root We are into function 
+CRITICAL (2022-06-29 12:34:26,671 root division by zero 
+INFO (2022-06-29 12:35:32,751 root We are into function 
+ERROR (2022-06-29 12:35:32,752 root division by zero 
+Traceback (most recent call last):
+  File "D:\Study\Data Science\Python\pythonProjects\pythonProjects\LoggingProject.py\logerr.py", line 7, in divide
+    return a/b
+ZeroDivisionError: division by zero
+INFO (2022-06-29 12:39:40,074 root We are into function 
+ERROR (2022-06-29 12:39:40,074 root division by zero 
+Traceback (most recent call last):
+  File "D:\Study\Data Science\Python\pythonProjects\pythonProjects\LoggingProject.py\logerr.py", line 7, in divide
+    s= a/b
+ZeroDivisionError: division by zero
+INFO (2022-06-29 12:39:56,653 root We are into function 
+INFO (2022-06-29 12:40:53,736 root We are into function 
+INFO (2022-06-29 12:40:53,737 root output of division is 1.3333333333333333 
+INFO (2022-06-29 12:40:53,737 root We have completed a division 
+INFO (2022-06-29 12:43:50,199 root We are into function 
+INFO (2022-06-29 12:43:50,199 root output of division is 1.3333333333333333 
+INFO (2022-06-29 12:43:50,199 root We have completed a division 
